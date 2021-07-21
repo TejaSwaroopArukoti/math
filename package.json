@@ -1,0 +1,11 @@
+{
+  "name": "@tejaswarooparukoti/math",
+  "version": "1.0.0",
+  "description": "This package contains all math utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teja Swaroop Arukoti",
+  "license": "ISC"
+}
